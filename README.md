@@ -9,7 +9,7 @@ A boiler plate android app with a clean on boarding UI
 
 <img src="https://imgur.com/sbwzpDz.jpg" width="300">
 
-<img src="http://imgur.com/gallery/ycCPcF6.gif" width="300">
+<img src="https://imgur.com/gallery/XNsF47G" width="300">
 
 
 # Features
