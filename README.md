@@ -7,13 +7,13 @@ A boiler plate android app with a clean on boarding UI
 👉 Check It Out
 <br>
 
-[![Watch demo](https://imgur.com/sbwzpDz)]
+[![Watch demo](https://imgur.com/sbwzpDz.jpg)]
 
-<img src="https://imgur.com/tzQRmBN">
+<img src="https://imgur.com/tzQRmBN.gif">
 
 # Features
 
-- [x] View Pager 
+- [x] View Pager with Layout Inflator 
 - [x] Page Transformer Animations
 - [x] Clean UI
-- [x] No Fragments Used
+- [x] No Fragments (Light Weight)
