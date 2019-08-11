@@ -7,9 +7,9 @@ A boiler plate android app with a clean on boarding UI
 👉 Check It Out
 <br>
 
-[![Watch demo](https://imgur.com/a/9rMViwt)]
+[![Watch demo](https://imgur.com/sbwzpDz)]
 
-<img src="https://imgur.com/a/mubhKit">
+<img src="https://imgur.com/tzQRmBN">
 
 # Features
 
