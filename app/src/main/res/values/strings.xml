@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+
+    <string name="demo_content">Lorem ipsum dolor sit amet, consectetur\n adipiscing elit. Vivamus sodales faucibus\n dapibus. Etiam mattis leo quis laoreet dictum.</string>
+    <string name="demo_title">Lorem Ipsum</string>
+    <string name="next">Next</string>
+</resources>
