@@ -5,8 +5,7 @@ A boiler plate android app with a clean on boarding UI
 ## Usage
 
 1) Clone the repository
-```
-bash
+```bash
 git clone https://github.com/christyjacob4/android-onboarding-demo/
 ```
 2) Import into Android Studio
