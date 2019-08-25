@@ -12,7 +12,7 @@
 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-success?style=for-the-badge&logo=coderwall" target="_blank" />
 
-  <a href="https://github.com/christyjacob4/christyjacob4.github.io/blob/master/LICENSE">
+  <a href="https://github.com/christyjacob4/android-onboarding-demo/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-success.svg?style=for-the-badge&logo=gitter" target="_blank" />
   </a>
 
